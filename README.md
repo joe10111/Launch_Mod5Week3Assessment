@@ -14,10 +14,8 @@ Check out a new branch and complete the following tasks **in order**:
   * Make sure only Librarians can add a book
 * 2 points - Create a descriptive pull request and merge this branch into main
 * 2 points - Take a screenshot of a database query result from pgAdmin that clearly shows which users in your database are librarians.  Update this README to include your screenshot below:
-
-  < YOUR SCREENSHOT SHOULD GO HERE >
-
   
+![DBQuerryForW3Exam](https://github.com/joe10111/Launch_Mod5Week3Assessment/assets/41969516/e65d3d7e-a0bb-4627-94f1-ebc1344768a4)
 
 ## Questions (6 points)
 
